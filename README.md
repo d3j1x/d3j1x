@@ -1,5 +1,5 @@
-<h4>🌑Hello World, ⚡⚡I’m d3j1x ⚓⚓⚓I’m interested in.. 🏗️Development.</h4> 
-**I’m currently learning Flutter**
+<h4>Hello World, I’m d3j1x 🌏 interested in.. 📺 Development.</h4> 
+<b>I’m currently learning Flutter</b>
 <h4>✉️d3j1x@yahoo.com</h4> 
 
 <!---
