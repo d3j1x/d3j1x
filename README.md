@@ -1,4 +1,5 @@
-- <h2>🌏 Hello, I’m @d3j1x</h2>
+- <h2>🌏 Hello, I’m</h2>
+* <h1>©️d3j1x</h1>
 - <h3>🏢 I’m interested in <b>developing</b> my career</h3>
 - <h4>🌱 I’m currently learning Flutter 🥅</h4> 
 - <h5>🌴 I’m looking to collaborate on *Opensource* </h5>
