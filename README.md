@@ -2,7 +2,7 @@
 <h3>🏢 I’m interested in <b>developing my career®</b></h3>
 <h4>🌱 I’m currently learning <b>Flutter</b></h4> 
 <h4>🌴 I’m looking to collaborate on <b>Opensource</b> </h4>
-<h5>✉️ How to reach me ... d3j1x@yahoo.com </h5> 
+<h5>✉️ How to reach me ...d3j1x@yahoo.com </h5> 
 
 <!---
 d3j1x/d3j1x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
