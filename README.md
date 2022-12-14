@@ -2,7 +2,7 @@
 
 1. <b>I’m currently learning:</b><br>
 
-- [x] ***Flutter***.
+- [x] ***Flutter***. 1.
 
 <h3>✉️ ... d3j1x@yahoo.com</h3> 
 
