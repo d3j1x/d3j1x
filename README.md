@@ -1,5 +1,9 @@
 <h4>Hello World 🌏, I’m d3j1x & interested in.. 📺 Development.</h4> 
-<b>I’m currently learning Flutter</b>
+
+1. <b>I’m currently learning:</b><br>
+
+- [x] ***Flutter***.
+
 <h3>✉️ ... d3j1x@yahoo.com</h3> 
 
 
