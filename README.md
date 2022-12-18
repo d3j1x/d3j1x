@@ -1,6 +1,6 @@
-<h4>Hello World 🌏, I’m d3j1x & interested in.. 📺 Development.</h4> 
+<h3>Hello World 🌏, I’m d3j1x & interested in.. Development.</h3> 
 
-- I’m currently learning:
+<h4> I’m currently learning: </h4>
 
 - [x] ***Flutter***.
 
