@@ -1,8 +1,20 @@
-<h3>Hello World 🌏, I’m d3j1x & interested in.. Development.</h3> 
+<h3>AL Salam Alaykom, I’m d3j1x Cybersecurity specialist & interested in.. Development.</h3>   
 
-<h4> I’m currently learning: </h4>
 
-- [x] ***Flutter***.
+<h4> I’m currently learning: Flutter</h4>
+
+- [x] ***SKILLS***:
+
+> #### Web Application 
+>
+> - FrontEnd:
+>>HTML5 CSS3 
+> - BackEnd:
+>>Javascript Dart Python Sqlite Assembly CS50 php
+> - FrameWorks:
+>>Flutter Canvas 
+
+
 
 <h3>✉️ ... d3j1x@yahoo.com</h3> 
 
