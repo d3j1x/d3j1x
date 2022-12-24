@@ -10,7 +10,7 @@
 > - FrontEnd:
 >>HTML5 CSS3 
 > - BackEnd:
->>Javascript Dart Python Sqlite Assembly CS50 Php Go C#
+>>Shell Javascript Dart Python Sqlite Assembly CS50 Php Go C#
 > - FrameWorks:
 >>Flutter Canvas 
 
