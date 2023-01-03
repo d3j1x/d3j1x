@@ -12,7 +12,17 @@
 > - BackEnd:
 >>Shell Javascript Dart Solidity Python Sqlite Assembly CS50 Php Go C#
 > - FrameWorks:
->>Flutter Canva 
+>>Flutter Canva   
+
+
+> #### Blockchain
+>  
+> - Crypto
+>> Mining Trading Investing
+> - Development
+>> Smart Contract
+
+
 
 
 
