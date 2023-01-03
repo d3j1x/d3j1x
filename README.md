@@ -1,7 +1,7 @@
 <h3>AL Salam Alaykom, I’m d3j1x Cybersecurity specialist & interested in.. Development.</h3>   
 
 
-<h4> I’m currently learning: Flutter</h4>
+<h4> I’m currently learning: Flutter & Solidity</h4>
 
 - [x] ***SKILLS***:
 
