@@ -3,7 +3,7 @@
 >  Peace be upon you as well as God's mercy and blessings.
 
 
-> - d3j1x 
+- d3j1x 
 
 <h3>Cybersecurity specialist & interested in.. Development.</h3>   
 
@@ -29,8 +29,8 @@
 > Crypto
 >> - Mining Trading Investing
 >
-> Development
->> - Smart Contract  Web3
+> - Development
+>>  Smart Contract  Web3
 >
 > - Framework 
 >> Truffle
