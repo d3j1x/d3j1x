@@ -27,13 +27,13 @@
 
 
 > - Crypto
->> Mining Trading Investing
+> Mining Trading Investing
 >
 > - Development
->> Smart Contract  Web3
+> Smart Contract  Web3
 >
 > - Framework 
->> Truffle
+> Truffle
 
 
 
