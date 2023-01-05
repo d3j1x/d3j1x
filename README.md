@@ -12,8 +12,9 @@
 
 - [x] ***SKILLS***:
 
-> #### Web Application 
->
+##### Web Application 
+
+
 > - FrontEnd:
 >>HTML5 CSS3 
 > - BackEnd:
@@ -22,14 +23,17 @@
 >>Flutter Canva NodeJs  
 
 
-> #### Blockchain
->  
+##### Blockchain
+
+
 > Crypto
-> - Mining Trading Investing
+>> - Mining Trading Investing
+>
 > Development
-> - Smart Contract  Web3
-> Framework 
-> - Truffle
+>> - Smart Contract  Web3
+>
+> - Framework 
+>> Truffle
 
 
 
