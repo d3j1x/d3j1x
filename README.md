@@ -2,7 +2,10 @@
 
 >  Peace be upon you as well as God's mercy and blessings.
 
-<h3>AL Salam Alaykom, I’m d3j1x Cybersecurity specialist & interested in.. Development.</h3>   
+
+> - d3j1x 
+
+<h3>Cybersecurity specialist & interested in.. Development.</h3>   
 
 
 <h4> I’m currently learning: Flutter & Solidity</h4>
@@ -16,7 +19,7 @@
 > - BackEnd:
 >>Shell Javascript Dart Solidity Python Sqlite Assembly CS50 Php Go C#
 > - FrameWorks:
->>Flutter Canva   
+>>Flutter Canva NodeJs  
 
 
 > #### Blockchain
@@ -25,6 +28,9 @@
 >> Mining Trading Investing
 > - Development
 >> Smart Contract  Web3
+> Framework 
+>> - Truffle
+
 
 
 
