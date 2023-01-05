@@ -1,3 +1,7 @@
+####  as-salāmu ʿalaykum wa-raḥmatu llāhi wa-barakātuhu
+
+>  Peace be upon you as well as God's mercy and blessings.
+
 <h3>AL Salam Alaykom, I’m d3j1x Cybersecurity specialist & interested in.. Development.</h3>   
 
 
