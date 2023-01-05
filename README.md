@@ -24,12 +24,12 @@
 
 > #### Blockchain
 >  
-> - Crypto
->> Mining Trading Investing
-> - Development
->> Smart Contract  Web3
+> Crypto
+> - Mining Trading Investing
+> Development
+> - Smart Contract  Web3
 > Framework 
->> - Truffle
+> - Truffle
 
 
 
