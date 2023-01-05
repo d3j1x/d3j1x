@@ -20,7 +20,7 @@
 > - Crypto
 >> Mining Trading Investing
 > - Development
->> Smart Contract
+>> Smart Contract  Web3
 
 
 
