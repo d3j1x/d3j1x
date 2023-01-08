@@ -15,9 +15,9 @@
 ##### Web Application 
 
 
-> - FrontEnd:
+> + FrontEnd:
 >>HTML5 CSS3 
-> - BackEnd:
+> + BackEnd:
 >>Shell Javascript Dart Solidity Python Sqlite Assembly CS50 Php Go C#
 > - FrameWorks:
 >>Flutter Canva NodeJs  
