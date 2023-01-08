@@ -62,7 +62,7 @@
 
 
 
-<✉️ ... <d3j1x@yahoo.com> 
+✉️    <d3j1x@yahoo.com> 
 
 
 
