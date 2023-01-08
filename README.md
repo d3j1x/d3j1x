@@ -1,4 +1,4 @@
-####  as-salāmu ʿalaykum wa-raḥmatu llāhi wa-barakātuhu
+#  as-salāmu ʿalaykum wa-raḥmatu llāhi wa-barakātuhu
 
 >  Peace be upon you as well as God's mercy and blessings.
 
