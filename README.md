@@ -12,12 +12,34 @@
 
 - [x] ***SKILLS***:
 
+
+##### Cybersecurity
+
+
+> - Scan:
+>> ..
+> - Secure Coding:
+>> ..
+> - Maintain Access:
+>> ..  
+> - Remove Log:
+>> ..
+> - Hacking:
+>> ..
+> - Footprinting:
+>> .. 
+> - Mobile Pentest:
+>> ..
+> - Network Security:
+>> ..
+
+
 ##### Web Application 
 
 
-> + FrontEnd:
+> - FrontEnd:
 >>HTML5 CSS3 
-> + BackEnd:
+> - BackEnd:
 >>Shell Javascript Dart Solidity Python Sqlite Assembly CS50 Php Go C#
 > - FrameWorks:
 >>Flutter Canva NodeJs  
@@ -41,6 +63,10 @@
 
 
 <h3>✉️ ... d3j1x@yahoo.com</h3> 
+
+
+
+
 
 
 <!---
