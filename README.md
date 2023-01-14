@@ -10,13 +10,15 @@
 
 <h6 align="center"> d3j1× ✅ <h6>
 
-### مختص في الأمن السيبراني و مهتم بمجال التطوير
+## مختص في الأمن السيبراني و مهتم بمجال التطوير
 
-<h4>Cybersecurity specialist & interested in Development field.</h4>   
+<h3>Cybersecurity specialist & interested in Development field.</h3>   
 
 -----
 
-<strong> I’m currently learning: Flutter & Solidity & Docker</strong>
+<h4 align="center"> • CURRENTLY LEARNING • </h4>
+
+<strong align="center">Flutter & Solidity & Docker</strong>
 
 -----
 
