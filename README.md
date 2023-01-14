@@ -16,7 +16,9 @@
 
 -----
 
-<p> *I’m currently learning: Flutter & Solidity & Docker*</p>
+<strong> I’m currently learning: Flutter & Solidity & Docker</strong>
+
+-----
 
 - [x] ***SKILLS***:
 
