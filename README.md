@@ -1,4 +1,4 @@
-# السلام عليكم ورحمة الله وبركاته 
+<h1 align="center">  السلام عليكم ورحمة الله وبركاته </h1>
 
 ##  Peace be upon you as well as God's mercy and blessings.
 
