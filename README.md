@@ -24,7 +24,7 @@
 
 <h4 align="center"> • CURRENTLY LEARNING • </h4>
 
-[Flutter](https://flutter.dev/)
+[Flutter فلاتر](https://flutter.dev/)
   
 <p align="center">[Solidity](https://docs.soliditylang.org/)</p>
   
