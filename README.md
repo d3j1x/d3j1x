@@ -16,7 +16,10 @@
 
 -----
 
-- [x] ***SKILLS*** مهارات:
+- [x] :***مهارات***
+
+- [x] ***SKILLS***:
+
 
 <p> I’m currently learning: Flutter & Solidity & Docker</p>
 
