@@ -22,17 +22,19 @@
 
 -----
 
-<h4 align="center"> • CURRENTLY LEARNING • </h4>
+<h3 align="center"> • CURRENTLY LEARNING • </h4>
 
-<h3 align="center">■Flutter■</h3>
+<h4 align="center">■Flutter■</h3>
 
 <p align="center">(https://flutter.dev/)</p>
 
-<h2 align="center">■Solidity<h2>
+<h4 align="center">■Solidity■</h4>
   
 <p align="center">(https://docs.soliditylang.org/)</p>
+
+<h4 align="center">■Docker■</h4>
   
-<p align="center">■Docker■(https://www.docker.com/)</p>
+<p align="center">(https://www.docker.com/)</p>
 
 -----
 
