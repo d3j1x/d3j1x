@@ -1,8 +1,8 @@
-#  as-salāmu ʿalaykum wa-raḥmatu llāhi wa-barakātuhu
+# السلام عليكم ورحمة الله وبركاته 
 
->  Peace be upon you as well as God's mercy and blessings.
+##  Peace be upon you as well as God's mercy and blessings.
 
-
+### as-salāmu ʿalaykum wa-raḥmatu llāhi wa-barakātuhu
 
 
 <h3>Cybersecurity specialist & interested in.. Development.</h3>   
@@ -19,6 +19,7 @@
 > - Scan:
 >> [MALTEGO](https://www.maltego.com/)
 >> [MASSCAN](https://www.kali.org/tools/masscan/#:~:text=MASSCAN%20is%20TCP%20port%20scanner,arbitrary%20address%20and%20port%20ranges.)
+>> [NMAP](https://nmap.org)
 > - Secure Coding:
 >> ..
 > - Maintain Access:
