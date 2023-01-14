@@ -24,7 +24,7 @@
 
 <h4 align="center"> • CURRENTLY LEARNING • </h4>
 
-<h5 align="center">Flutter & Solidity & Docker</h5>
+<h5 align="center">[Flutter](https://flutter.dev/) & Solidity & Docker</h5>
 
 -----
 
