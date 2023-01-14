@@ -1,8 +1,8 @@
 <h1 align="center">  السلام عليكم ورحمة الله وبركاته </h1>
 
-> as-salāmu ʿalaykum wa-raḥmatu llāhi wa-barakātuhu
+<p align="center">as-salāmu ʿalaykum wa-raḥmatu llāhi wa-barakātuhu </p>
 
-<h3 align="center">  Peace be upon you as well as God's mercy and blessings </h3>
+<h1 align="center">  Peace be upon you as well as God's mercy and blessings </h1>
 
  
 
