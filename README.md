@@ -22,6 +22,8 @@
 
 -----
 
+<h2 align="center"> • أدرس حاليا • </h2>
+
 <h3 align="center"> • CURRENTLY LEARNING • </h4>
 
 <h4 align="center">■Flutter■</h3>
