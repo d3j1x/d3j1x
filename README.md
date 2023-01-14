@@ -24,11 +24,11 @@
 
 <h4 align="center"> • CURRENTLY LEARNING • </h4>
 
-[Flutter فلاتر](https://flutter.dev/)
+<p align="center">  ■Flutter■(https://flutter.dev/)
   
-<p align="center">[Solidity](https://docs.soliditylang.org/)</p>
+<p align="center">■Solidity■(https://docs.soliditylang.org/)</p>
   
-<p align="center">[Docker](https://www.docker.com/)</p>
+<p align="center"■Docker■(https://www.docker.com/)</p>
 
 -----
 
