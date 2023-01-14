@@ -8,6 +8,9 @@
 
 -----
 
+<h6 align="center"> d3j1× ✅ <h6>
+
+
 <h3>Cybersecurity specialist & interested in.. Development.</h3>   
 
 
