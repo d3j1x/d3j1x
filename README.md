@@ -16,11 +16,9 @@
 
 -----
 
+- [x] ***SKILLS*** مهارات:
 
-<h4> I’m currently learning: Flutter & Solidity & Docker</h4>
-
-- [x] ***SKILLS***:
-
+<p> I’m currently learning: Flutter & Solidity & Docker</p>
 
 ##### Cybersecurity
 
