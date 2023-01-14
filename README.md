@@ -24,7 +24,7 @@
 
 <h4 align="center"> • CURRENTLY LEARNING • </h4>
 
-<strong align="center">■Flutter■</strong>
+<h3 align="center">■Flutter■</h3>
 
 <p align="center">(https://flutter.dev/)</p>
   
