@@ -18,7 +18,7 @@
 
 ## مطور ويب شامل
 
-<h3>Full Stack Developer </h3>
+<h3>Full Stack Developer. </h3>
 
 -----
 
@@ -27,8 +27,10 @@
 <h3 align="center">■Flutter■</h3>
 
 <p align="center">(https://flutter.dev/)</p>
+
+<h2 align="center">■Solidity<h2>
   
-<p align="center">■Solidity■(https://docs.soliditylang.org/)</p>
+<p align="center">(https://docs.soliditylang.org/)</p>
   
 <p align="center">■Docker■(https://www.docker.com/)</p>
 
