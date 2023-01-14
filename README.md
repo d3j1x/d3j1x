@@ -16,10 +16,9 @@
 
 -----
 
+<p> *I’m currently learning: Flutter & Solidity & Docker*</p>
+
 - [x] ***SKILLS***:
-
-
-<p> I’m currently learning: Flutter & Solidity & Docker</p>
 
 ##### Cybersecurity
 
