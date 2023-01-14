@@ -4,12 +4,13 @@
 
 <h1 align="center">  Peace be upon you as well as God's mercy and blessings </h1>
 
- 
+-----
 
+-----
 
 <h3>Cybersecurity specialist & interested in.. Development.</h3>   
 
------
+
 
 <h4> I’m currently learning: Flutter & Solidity & Docker</h4>
 
