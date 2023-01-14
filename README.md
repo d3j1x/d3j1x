@@ -11,10 +11,14 @@
 <h6 align="center"> d3j1× ✅ <h6>
 
 
-## .مختص في الأمن السيبراني 
+## مختص في الأمن السيبراني 
 
 
 <h3>Cybersecurity specialist.</h3>   
+
+## مطور ويب شامل
+
+<h3>Full Stack Developer </h3>
 
 -----
 
