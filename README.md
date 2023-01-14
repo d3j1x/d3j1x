@@ -10,9 +10,11 @@
 
 <h6 align="center"> d3j1× ✅ <h6>
 
-## مختص في الأمن السيبراني و مهتم بمجال التطوير
 
-<h3>Cybersecurity specialist & interested in Development field.</h3>   
+## .مختص في الأمن السيبراني 
+
+
+<h3>Cybersecurity specialist.</h3>   
 
 -----
 
