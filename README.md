@@ -9,6 +9,7 @@
 
 <h3>Cybersecurity specialist & interested in.. Development.</h3>   
 
+-----
 
 <h4> I’m currently learning: Flutter & Solidity & Docker</h4>
 
