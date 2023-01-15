@@ -72,7 +72,7 @@
 >>HTML5 CSS3 Design
 > - BackEnd:
 >>Shell Javascript Dart Solidity Python Sqlite Assembly CS50 Php Go C#
-> - FrameWorks:
+> - Framework:
 >>Flutter Angular  
 
 
