@@ -73,7 +73,7 @@
 > - BackEnd:
 >>Shell Javascript Dart Solidity Python Sqlite Assembly CS50 Php Go C#
 > - FrameWorks:
->>Flutter Canva NodeJs  
+>>Flutter Angular  
 
 
 ##### Blockchain
