@@ -80,7 +80,7 @@
 > - BackEnd:
 >>Shell Javascript Dart Solidity Python Sqlite Assembly CS50 Php Go C#
 > - Framework:
->>Flutter Angular  
+>>Flutter Angular  Svelte
 
 
 ##### Blockchain
