@@ -25,6 +25,10 @@
 <h2 align="center"> • أدرس حاليا • </h2>
 
 <h3 align="center"> • CURRENTLY LEARNING • </h4>
+  
+<h4 align="center">■Svelte■</h3>
+  
+<p align="center">(https://svelte.dev/)</p>
 
 <h4 align="center">■Flutter■</h3>
 
