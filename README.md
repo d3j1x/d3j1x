@@ -22,6 +22,30 @@
 
 -----
 
+<h2 align="center"> • مشاريعي • </h2>
+
+<h3 align="center"> • MY PROJECTS • </h4>
+  
+<h4 align="center">■DajiX■</h3>
+  
+<p align="center">(https://dajix.vercel.app/)</p>
+
+<h4 align="center">■SMRKT■</h3>
+
+<p align="center">(https://smrkt.vercel.app/)</p>
+
+<h4 align="center">■Bitcoin Street■</h4>
+  
+<p align="center">(https://bitcoin-street.vercel.app/)</p>
+
+<h4 align="center">■Portfolix■</h4>
+  
+<p align="center">(https://portfolix.vercel.app/)</p>
+
+
+-----
+
+
 <h2 align="center"> • أدرس حاليا • </h2>
 
 <h3 align="center"> • CURRENTLY LEARNING • </h4>
