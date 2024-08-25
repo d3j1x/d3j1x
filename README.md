@@ -32,7 +32,7 @@
 
 <h4 align="center">■Earnmoney■</h3>
   
-<p align="center">(https://earnmoney-tn.vercel.app/)</p>
+<p align="center">(https://earnmoney.tn/)</p>
   
 <h4 align="center">■DajiX■</h3>
   
