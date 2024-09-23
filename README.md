@@ -2,9 +2,7 @@
 
 <p align="center">as-salāmu ʿalaykum wa-raḥmatu llāhi wa-barakātuhu </p>
 
-<h1 align="center">  Peace be upon you as well as God's mercy and blessings </h1>
-
------
+<h2 align="center">  Peace be upon you as well as God's mercy and blessings </h1>
 
 -----
 
@@ -26,7 +24,7 @@
 
 <h3 align="center"> • MY PROJECTS • </h4>
 
-<h4 align="center">■SMX■</h3>
+<h4 align="center">■SMRT MRKT X■</h3>
   
 <p align="center">(https://smx.tn/)</p>
 
