@@ -1,4 +1,4 @@
-<h1 align="center">  السلام عليكم ورحمة الله وبركاته </h1>
+<h2 align="center">  السلام عليكم ورحمة الله وبركاته </h2>
 
 <p align="center">as-salāmu ʿalaykum wa-raḥmatu llāhi wa-barakātuhu </p>
 
@@ -8,18 +8,18 @@
 
 <h4 align="center"> d3j1× ✅</h4>
 
-<h3  align="center"><a href="https://shihabdin.tn" target="_blank">Shihabdin ✪</a></h3>
+<h4  align="center"><a href="https://shihabdin.tn" target="_blank">Shihabdin ✪</a></h4>
   
 
-
----
-
-### مهندس برمجيات 
+<h3 align="center">مهندس برمجيات</h3>
 
 
-<h3>Software engineer</h3>   
 
-### باعث 🛰 السوق الذكية X
+<h3 align="center">Software engineer</h3>   
+
+<h3 align="center">باعث 🛰 السوق الذكية اكس</h3>
+
+
 
 <h3>Founder 🛰 SMRT MRKT X</h3>
 
@@ -28,31 +28,31 @@
 
 -----
 
-<h2 align="center"> • مشاريعي • </h2>
+<h4 align="center"> • مشاريعي • </h4>
 
-<h3 align="center"> • MY PROJECTS • </h4>
+<h4 align="center"> • MY PROJECTS • </h4>
 
-<h4 align="center">■SMRT MRKT X■</h3>
+<h5 align="center">■SMRT MRKT X■</h5>
   
 <p align="center">(https://smx.tn/)</p>
 
-<h4 align="center">■Earnmoney■</h3>
+<h5 align="center">■Earnmoney■</h5>
   
 <p align="center">(https://earnmoney.tn/)</p>
   
-<h4 align="center">■DajiX■</h3>
+<h5 align="center">■DajiX■</h5>
   
 <p align="center">(https://dajix.vercel.app/)</p>
 
-<h4 align="center">■SMRKT■</h3>
+<h5 align="center">■SMRKT■</h5>
 
 <p align="center">(https://smrkt.vercel.app/)</p>
 
-<h4 align="center">■Bitcoin Street■</h4>
+<h5 align="center">■Bitcoin Street■</h5>
   
 <p align="center">(https://bitcoin-street.vercel.app/)</p>
 
-<h4 align="center">■Portfolix■</h4>
+<h5 align="center">■Portfolix■</h5>
   
 <p align="center">(https://portfolix.vercel.app/)</p>
 
@@ -60,7 +60,7 @@
 -----
 
 
-<h2 align="center"> • أدرس حاليا • </h2>
+<h3 align="center"> • أدرس حاليا • </h2>
 
 <h3 align="center"> • CURRENTLY LEARNING • </h4>
   
