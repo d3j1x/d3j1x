@@ -14,14 +14,14 @@
 
 ---
 
-### مختص في الأمن السيبراني 
+### مهندس برمجيات 
 
 
-<h3>Cybersecurity specialist.</h3>   
+<h3>Software engineer</h3>   
 
-### مطور ويب شامل
+### باعث 🛰 السوق الذكية X
 
-<h3>Full Stack Developer. </h3>
+<h3>Founder 🛰 SMRT MRKT X</h3>
 
 
 
