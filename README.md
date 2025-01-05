@@ -22,7 +22,7 @@
 
 
 
-<h3 align="center">Software engineer 💻</h3>   
+<h3 align="center">Software Engineer and Tester</h3>   
 
 <h3 align="center">باعث 🛰 السوق الذكية اكس</h3>
 
