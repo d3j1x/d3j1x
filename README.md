@@ -35,7 +35,7 @@
 
 <div align="center">
 
-[SMX](https://github.com/SmrtMrktX/SMX)
+[SMRT MRKT X](https://github.com/SmrtMrktX)
 
 </div>
   
