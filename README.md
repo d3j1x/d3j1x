@@ -27,27 +27,54 @@
 
 <br/>
 
-<h3 align="center">My Projects •  مشاريعي </h3>
+<h3 align="center">My Projects :  مشاريعي </h3>
+
 <br/>
 
-<h4 align="center">SMRT MRKT X</h4>
+
+
+<div align="center">
+
+[SMX](https://github.com/SmrtMrktX/SMX)
+
+</div>
   
 <p align="center">(https://smx.tn/)</p>
 
+
+
+
 <br/>
 
-<h4 align="center">Earnmoney</h4>
-  
+
+<div align="center">
+
+[Earnmoney](https://github.com/d3j1x/Earnmoney)
+
+</div>
+
 <p align="center">(https://earnmoney.tn/)</p>
 
+
+
+
 <br/>
   
 
-<h4 align="center">Bitcoin Street</h4>
+
+<div align="center">
+
+[Bitcoin Street](https://github.com/d3j1x/BitcoinStreet)
+
+</div>
   
 <p align="center">(https://bitcoin-street.vercel.app/)</p>
 
+
+
 <br/>
+
+
 
 
 
