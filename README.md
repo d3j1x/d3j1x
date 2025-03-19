@@ -81,15 +81,16 @@
 -----
 
 
+<h3 align="center">SKILLS</h3>
 
-- [x] ***SKILLS***:
+
+<h4 align="center">Full-Stack-Development</h4>
+
+<h4 align="center">Software-Testing</h4>
+
+<h4 align="center">Cybersecurity</h4>
 
 
-##### Full-Stack-Development
-
-##### Software-Testing
-
-##### Cybersecurity
 
 
 <br/>
