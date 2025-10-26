@@ -32,9 +32,9 @@
 
 <h4 align="center">Business Administration - إدارة الأعمال</h4>
 
-<h4 align="center">Full-Stack-Development - تطوير شامل</h4>
+<h4 align="center">Full Stack Development - تطوير شامل</h4>
 
-<h4 align="center">Software-Testing - اختبار البرمجيات</h4>
+<h4 align="center">Software Testing - اختبار البرمجيات</h4>
 
 <h4 align="center">Cybersecurity - الأمن السيبراني</h4>
 
