@@ -11,6 +11,10 @@
 
 <br/>
 
+<h4 align="center">Entrepreneur 💼  رائد أعمال</h4> 
+
+<br/>
+
 <h4 align="center">Software Engineer and Tester 💻 مهندس برمجيات</h4>   
 
 <br/>
@@ -25,70 +29,18 @@
 
 -----
 
-<br/>
-
-<h3 align="center">My Projects :  مشاريعي </h3>
-
-<br/>
 
 
 
-<div align="center">
+<h3 align="center">SKILLS | المهارات</h3>
 
-[SMRT MRKT X](https://github.com/SmrtMrktX)
+<h4 align="center">Business Administration - إدارة الأعمال</h4>
 
-</div>
-  
-<p align="center">(https://smx.tn/)</p>
+<h4 align="center">Full-Stack-Development - تطوير شامل</h4>
 
+<h4 align="center">Software-Testing - اختبار البرمجيات</h4>
 
-
-
-<br/>
-
-
-<div align="center">
-
-[Earnmoney](https://github.com/d3j1x/Earnmoney)
-
-</div>
-
-<p align="center">(https://earnmoney.tn/)</p>
-
-
-
-
-<br/>
-  
-
-
-<div align="center">
-
-[Bitcoin Street](https://github.com/d3j1x/BitcoinStreet)
-
-</div>
-  
-<p align="center">(https://bitcoin-street.vercel.app/)</p>
-
-
-
-<br/>
-
-
-
-
-
------
-
-
-<h3 align="center">SKILLS</h3>
-
-
-<h4 align="center">Full-Stack-Development</h4>
-
-<h4 align="center">Software-Testing</h4>
-
-<h4 align="center">Cybersecurity</h4>
+<h4 align="center">Cybersecurity - الأمن السيبراني</h4>
 
 
 
