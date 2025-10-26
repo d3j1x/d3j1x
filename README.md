@@ -15,14 +15,6 @@
 
 <br/>
 
-<h4 align="center">Software Engineer and Tester 💻 مهندس برمجيات</h4>   
-
-<br/>
-
-<h4 align="center">Co-Founder SMRT MRKT X - باعث السوق الذكية اكس</h4>
-
-<br/>
-
 <h4 align="center"> d3j1× ✅</h4>
 
 <br/>
